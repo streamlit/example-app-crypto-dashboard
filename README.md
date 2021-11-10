@@ -1,4 +1,4 @@
-# 📈 Crypto Dashboard
+# 📈 Crypto Dashboard (test!)
 
 A simple cryptocurrency price app pulling price data from the [Binance API](https://www.binance.com/en/support/faq/360002502072).
 
