@@ -18,7 +18,7 @@ with c1:
 
 st.markdown(
     """# **Crypto Dashboard**
-A simple cryptocurrency price app pulling price data from the [Binance API](https://www.binance.com/en/support/faq/360002502072).
+A simple cryptocurrency price app pulling price data from the [Binance API](https://www.binance.com/en/support/faq/360002502072), from [Data Professor](https://twitter.com/thedataprof)
 """
 )
 
